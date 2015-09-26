@@ -25,7 +25,7 @@ class Wall:
                 cellx += xdir
                 nextxt += xtstep
             table.pixels[cellx][celly] = [1.0, 1.0]
-           # print "Next cell: (%d, %d)" % (cellx, celly)
+           # print "Next cell: (%d, %d)" % (cellx, celly)  
         
         
         
